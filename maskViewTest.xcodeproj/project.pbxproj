@@ -13,6 +13,12 @@
 		04425AB21D91640D004D804A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04425AB01D91640D004D804A /* Main.storyboard */; };
 		04425AB41D91640D004D804A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04425AB31D91640D004D804A /* Assets.xcassets */; };
 		04425AB71D91640D004D804A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04425AB51D91640D004D804A /* LaunchScreen.storyboard */; };
+		04425AC31D91673B004D804A /* 无标题.png in Resources */ = {isa = PBXBuildFile; fileRef = 04425AC21D91673B004D804A /* 无标题.png */; };
+		04425AC51D916772004D804A /* 138050-5497241268ca44b4.png in Resources */ = {isa = PBXBuildFile; fileRef = 04425AC41D916772004D804A /* 138050-5497241268ca44b4.png */; };
+		04425AC71D9168D2004D804A /* 138050-6d105f8c1fd7336e.png in Resources */ = {isa = PBXBuildFile; fileRef = 04425AC61D9168D2004D804A /* 138050-6d105f8c1fd7336e.png */; };
+		04425ACD1D924C0C004D804A /* UIView+ZJFadeAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04425ACC1D924C0C004D804A /* UIView+ZJFadeAnimation.m */; };
+		04425ACF1D927844004D804A /* 123.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04425ACE1D927844004D804A /* 123.jpg */; };
+		04425AD11D92784E004D804A /* 11602285792005e56fl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04425AD01D92784E004D804A /* 11602285792005e56fl.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +32,13 @@
 		04425AB31D91640D004D804A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04425AB61D91640D004D804A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04425AB81D91640D004D804A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04425AC21D91673B004D804A /* 无标题.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "无标题.png"; sourceTree = "<group>"; };
+		04425AC41D916772004D804A /* 138050-5497241268ca44b4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "138050-5497241268ca44b4.png"; sourceTree = "<group>"; };
+		04425AC61D9168D2004D804A /* 138050-6d105f8c1fd7336e.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "138050-6d105f8c1fd7336e.png"; sourceTree = "<group>"; };
+		04425ACB1D924C0C004D804A /* UIView+ZJFadeAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ZJFadeAnimation.h"; sourceTree = "<group>"; };
+		04425ACC1D924C0C004D804A /* UIView+ZJFadeAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ZJFadeAnimation.m"; sourceTree = "<group>"; };
+		04425ACE1D927844004D804A /* 123.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 123.jpg; sourceTree = "<group>"; };
+		04425AD01D92784E004D804A /* 11602285792005e56fl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11602285792005e56fl.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +73,16 @@
 			children = (
 				04425AAA1D91640D004D804A /* AppDelegate.h */,
 				04425AAB1D91640D004D804A /* AppDelegate.m */,
+				04425ACE1D927844004D804A /* 123.jpg */,
+				04425AC41D916772004D804A /* 138050-5497241268ca44b4.png */,
+				04425AC61D9168D2004D804A /* 138050-6d105f8c1fd7336e.png */,
+				04425AD01D92784E004D804A /* 11602285792005e56fl.jpg */,
 				04425AAD1D91640D004D804A /* ViewController.h */,
 				04425AAE1D91640D004D804A /* ViewController.m */,
+				04425AC21D91673B004D804A /* 无标题.png */,
 				04425AB01D91640D004D804A /* Main.storyboard */,
+				04425ACB1D924C0C004D804A /* UIView+ZJFadeAnimation.h */,
+				04425ACC1D924C0C004D804A /* UIView+ZJFadeAnimation.m */,
 				04425AB31D91640D004D804A /* Assets.xcassets */,
 				04425AB51D91640D004D804A /* LaunchScreen.storyboard */,
 				04425AB81D91640D004D804A /* Info.plist */,
@@ -136,9 +156,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04425AD11D92784E004D804A /* 11602285792005e56fl.jpg in Resources */,
 				04425AB71D91640D004D804A /* LaunchScreen.storyboard in Resources */,
 				04425AB41D91640D004D804A /* Assets.xcassets in Resources */,
 				04425AB21D91640D004D804A /* Main.storyboard in Resources */,
+				04425AC51D916772004D804A /* 138050-5497241268ca44b4.png in Resources */,
+				04425AC71D9168D2004D804A /* 138050-6d105f8c1fd7336e.png in Resources */,
+				04425AC31D91673B004D804A /* 无标题.png in Resources */,
+				04425ACF1D927844004D804A /* 123.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04425AAF1D91640D004D804A /* ViewController.m in Sources */,
+				04425ACD1D924C0C004D804A /* UIView+ZJFadeAnimation.m in Sources */,
 				04425AAC1D91640D004D804A /* AppDelegate.m in Sources */,
 				04425AA91D91640D004D804A /* main.m in Sources */,
 			);
